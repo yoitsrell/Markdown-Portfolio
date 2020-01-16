@@ -1,3 +1,5 @@
+# CHEATSHEET
+
 **Function** - block of code that runs a specific task, an action/verb 
 
 (ex: touch zsh-cheatsheet.md (touch would be the function))
